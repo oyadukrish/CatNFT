@@ -1,8 +1,8 @@
 {
     "name":"LM Token",
     "description":"This is Cat NFT, Buy it now!",
-    "image":"",
-    "external_url":"",
+    "image":"https://oyadukrish.github.io/CatNFT/image/LM-1.jpeg",
+    "external_url":"https://oyadukrish.github.io/CatNFT/,
     "attributes":[
         {
         "trait_type":"Artifact",
